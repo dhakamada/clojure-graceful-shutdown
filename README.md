@@ -2,7 +2,7 @@
 
 It's just a simple code to exemplify how to grace shutdown a web application and a worker
 
-It's example doesn't have any unit or integration test =/
+It example doesn't have any unit or integration test =/
 
 ##### Prerequisite
 - [Leiningen](https://leiningen.org/) 2.9.3
